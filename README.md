@@ -1,2 +1,2 @@
-# sh1mmer-me-timbers
+# Sh1mmerMeT1mbers
 Sh1mmer files :)
